@@ -1,14 +1,36 @@
-# Welcome to VidyaVaani
-VidyaVaani is an AI-driven student performance prediction and guidance system that analyzes study habits, preparation strategies, and exam stress levels to provide personalized recommendations for academic improvement.
-VidyaVaani aims to revolutionize education by combining AI, psychology, and ancient knowledge to create a smarter, more focused, and empowered generation.
+# 📚 VidyaVaani  
 
-# Live link
-https://vidyavaani-meta.vercel.app
+**VidyaVaani** is an AI-driven **student performance prediction and guidance system** that analyzes **study habits, preparation strategies, and stress levels** to provide **personalized academic recommendations**.  
 
-# Model Used
-Random Forest Regression is a supervised machine learning algorithm that uses an ensemble of decision trees to predict continuous target variables, leveraging the power of averaging predictions from multiple trees to improve accuracy and reduce variance.
+By combining **Artificial Intelligence, Psychology, and Ancient Knowledge**, VidyaVaani aims to revolutionize education and empower students with **data-driven insights** for smarter learning.  
 
-# Features
-1. Uses AI & Machine Learning to predict student marks based on study patterns.
-2. Provides custom suggestions to improve learning efficiency.
-3. Students enter details like study hours, sleep patterns, revision frequency, and stress levels.
+
+🔗 **Live Demo**: [VidyaVaani](https://vidyavaani-meta.vercel.app)  
+
+---
+
+## 🚀 Key Features  
+
+- 📊 **AI-Powered Predictions** – Predicts student marks based on study hours, sleep quality, revision frequency, and stress levels.  
+- 🧠 **Personalized Guidance** – Offers actionable tips to improve study efficiency, reduce exam anxiety, and optimize learning.  
+- ⚡ **User-Friendly Interface** – Students can easily input lifestyle & study details for instant insights.  
+
+---
+
+## 🧮 Machine Learning Model  
+
+VidyaVaani uses **Random Forest Regression**, a robust supervised ML algorithm that combines multiple decision trees to:  
+- Handle **non-linear relationships** in student behavior and performance.  
+- Reduce **overfitting** by averaging predictions across multiple trees.  
+- Improve **accuracy and generalization** compared to a single decision tree.  
+
+---
+
+## 📂 Tech Stack  
+
+- **Frontend**: React.js, TailwindCSS (deployed on Vercel)  
+- **Backend / ML**: Python (scikit-learn, Pandas, NumPy)  
+- **Model**: Random Forest Regression 
+
+---
+
