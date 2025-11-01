@@ -4,9 +4,6 @@
 
 By combining **Artificial Intelligence, Psychology, and Ancient Knowledge**, VidyaVaani aims to revolutionize education and empower students with **data-driven insights** for smarter learning.  
 
-
-🔗 **Live Demo**: [VidyaVaani](https://vidyavaani-meta.vercel.app)  
-
 ---
 
 ## 🚀 Key Features  
@@ -14,6 +11,13 @@ By combining **Artificial Intelligence, Psychology, and Ancient Knowledge**, Vid
 - 📊 **AI-Powered Predictions** – Predicts student marks based on study hours, sleep quality, revision frequency, and stress levels.  
 - 🧠 **Personalized Guidance** – Offers actionable tips to improve study efficiency, reduce exam anxiety, and optimize learning.  
 - ⚡ **User-Friendly Interface** – Students can easily input lifestyle & study details for instant insights.  
+
+---
+
+🔗 **External Links**
+
+ **Live Link**: https://vidyavaani-meta.vercel.app  
+ **Video Tutorial**: https://drive.google.com/file/d/12FxrK2Oob08xwLntwKLn17-MWeX8rQ-p/view?usp=sharing
 
 ---
 
